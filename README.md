@@ -3,10 +3,10 @@
 I made this game in Intro to Programming in Bellarmine 2022... every time i change smoething here it is listening.
  iterative factorial
  for i in range(3):
-    x = i
-    print(x+x*i)
+     x = i
+     print(x+x*i)
 
-recursion
+ recursion
 
 def recurse(x):
     if x > 100:
@@ -27,4 +27,3 @@ recurse(1)
  num = 3
 
  print("the factorial of ", num, "is", factorial(num))
-
